@@ -17,8 +17,8 @@
   
   
      <scm>
-        <connection>scm:git@github.com:realiceman/tryreleasefrompom2.git</connection>
-        <developerConnection>scm:git@github.com:realiceman/tryreleasefrompom2.git</developerConnection>
+        <connection>scm:git:git@github.com:realiceman/tryreleasefrompom2.git</connection>
+        <developerConnection>scm:git:git@github.com:realiceman/tryreleasefrompom2.git</developerConnection>
         <url>https://github.com/realiceman/tryreleasefrompom2</url>
         <tag>@{project.version}</tag>
     </scm> 
